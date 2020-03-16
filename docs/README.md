@@ -386,7 +386,7 @@ The next step is thinking on what units should be available the moment a match s
 Let's schematize what we just discussed in the image below:
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/tech%20tree.png">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/tech%20tree.png">
 </p>
 
 ## 7. Artificial Intelligence (AI)
@@ -404,7 +404,7 @@ By making enemy units that the game itself controls, it makes the player thing t
 As we can see in the image below, the percentage of players that claimed that the AI was "very intelligent" jumped from a mere 8% when playeres where facing low damagin, low HP monsters. In contrast, this percentage skyrocketed to an astounding 43% when players where facing high damaging, high HP monsters.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/tougher%20enemies%20graph.png" width ="500">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/tougher%20enemies%20graph.png" width ="500">
 </p>
 
 *Photo taken from [this](https://www.youtube.com/watch?v=9bbhJi0NBkk) video By GameMaker'sTollkit*
@@ -445,7 +445,7 @@ This is not intended to be applied to RTS because rarely, if not never, you won'
 An extremely good example analysing Final Fantasy XV's character, Prompto, who will be taking selfies when certain thresholds have been triggered or when the character feels like doing so. Gameplay wise, this has no value whatsoever. But it adds a tremendous amount of complexity to Prompto's character and makes him feel like he's self-aware.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/prompto%20selfie%20system.jpg" width ="500">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/prompto%20selfie%20system.jpg" width ="500">
 </p>
 
 *Prompto's selfie system in the form of a flowchart*
@@ -465,19 +465,19 @@ I will be discussing the fascinating world of single-player modes on specific le
 First of all, the objective of this mission is to earch the main objective, it's marked witha green cross. As we can observe, there's a chokepoint and the path is blocked by a pair of Mammoth Tanks(MT) one of these units alone would be enough to wipe you entire army, that is composed of 1 Mobile Contruction Vehicle, vital to beat this game, 1 light tank and 2 attack bikes with 2 buggies attached to them. Making a total of 6 starting units. This level requires you to cleverly utilize your extremely limited army to beat this seemingly impossible level and take advantage of the map's layout.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/step1.png">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/step1.png">
 </p>
 
 The first step in order to beat this level is having one of you bikes lure a single MT and move it away from the chokepoint. The only thing you should do is lure it clockwise with the huge montain in the top-middle of the map. Once lured, you proceed to do the same whith the other buggy when the 1st one reaches 12 o'clock. After this has been done, you have to move your MCV to the destination.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/step2.png">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/step2.png">
 </p>
 
 After this is done and you have your base under construction, you have 2 options: destroy the tanks or have the lured forever. The first choice is the more optimal one since having to constantly micromanage 2 bikes while defending, expanding and upgrading you base would distract you from efficiently carrying out these tasks. So the way to do it is to send one attack bike after each MT so the MT chases the buggy while the attack bike pokes it from behind untill both are destroyed. 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/strategy_chart.png">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/strategy_chart.png">
 </p>
 
 *Visual representation of this tactic*
@@ -503,7 +503,7 @@ Chokepoints are essential when designing a map because it creates a point of con
 - **Ramp:** If a chokepoint lead to a different elevation then it's called a ramp. This is especially important in StarCraft because having control of the high ground means receiving a passive buff that lasts for as long as you control said zone. Ramps is the most common way to balance or neutralize the strengths of the Zerg faction, more specifically, the [Zerg Rushing strategy](https://scarzard.github.io/RTS_Balancing/#4-defining-gameplay-styles-in-rts)
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/ramp.jpg">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/ramp.jpg">
 </p>
 
 
@@ -534,7 +534,7 @@ This is the absolute basic concept for balancing a map. Make sure that players a
 Often, map creators will the the artifical look that a symmetrical map produces by changing game elements that don't have any impact on gameplay whatsoever. For example, changing the textures throughout the map so that the player feels in a more natural environment. This practice is called *functional symmetry*.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/Circuit_Breakers.jpg">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/Circuit_Breakers.jpg">
 </p>
 
 *Competitive map: Circuit Breaker. Often tagged as the most balanced map of all time*
@@ -543,13 +543,13 @@ You can also see competitive maps that are currently being used [here](https://l
 
 ## 10. Conclusions and personal thoughts on the topic
 
-The methods I've explained **are not definitive.** This means that they should be used a guideline for balancing your own RTS. They will help you to focus you game on the right direction and, most likely, will allow you to establish a balanced base from where you should start from. 
+The methods explained here are for using them as a guideline, they're not definitive. They will focus your game in the right direction while establishing a balanced base to build your own system around.
 
-In game design, it is absolutely imperative that you **PLAYTEST** you own game and through **trial and error,** make as many **iterations as possible** to ensure that you game is both balanced but more importantly **fun** to play with.
+One of the big points while designing your system is to playtest as much as posible, trial and error is one of the best ways to find and discern where are the points that require changing as well as getting feedback from real players, we all know what happens if only the creators test their own videogame...
 
-This was a really interesting yet challenging topic to cover because I was not an avid player who was really attracted to this genre. So I had no basis to start from nor personal experience. So the first thing you need to make sure you check out when explaining an extensive and convoluted topic to others and guide them, is that you, personally, understand it. So I started playing a few matches of SCII to understand *how* they work.
+This theme was very interesting for me to research about, i have played some RTS games but i'm not what you woould call a fanatic of the genre, i know how they work and i can defend myself in a game but that's it, almost everything i learned doing this work was new to me.
 
-It was extremely interesting because there's just so many things to talk about that it would be impossible for someone to cover each and every topic in this extremely complex yet seemigly simple genre. The deeper you dig into this topic, the lower you fall to a rabbit hole of wanting to know everything about balancing RTS games.
+That's why while researching this topic I focused on making sure that the ones reading it would understand it perfectly, which was on its own way another challenge because of the extensive that this theme is, the deeper you dig into this topic, the lower you fall into a rabbit hole, is like entering an infinite dungeon and wanting to explore all the rooms.
 
 ## 11. Bibliography, Webgraphy and Videography
 
@@ -611,7 +611,4 @@ It was extremely interesting because there's just so many things to talk about t
 - **What Makes Good AI? by Game Maker's Toolkit:** <https://youtu.be/9bbhJi0NBkk/>
 
 - **What Makes RTS Games Fun: Asymmetric Design in RTS by GeneralsGentleman:** <https://youtu.be/F1w-qCbYVe8/>
-
-  - The source material in this video's description is absolutely fantasic and really extensive.
-
 
