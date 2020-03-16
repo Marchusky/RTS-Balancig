@@ -208,7 +208,7 @@ In case we would want a perfectly balanced game where all units are chosen the s
 What we actually want is not a perfectly balanced game where units have the perfect trade off every single time. We want **some units to deviate from the balanced curve** that our game inherently has. Developers from Wizards of the Coast called it ***The Jedi Curve***, and they allowed their cards to deviate from said curve positively or negatively by 10-15%. this brough a wider array of options to choose from by simply making some units stronger than others.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/jedi%20curve.png" width ="500">
+  <img  src="https://www.cecidiomas.es/images/cecidiomases/684-thinking-of-getting-a-cat-international-cat-care-3435.png" width ="500">
 </p>
 
 
