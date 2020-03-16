@@ -201,14 +201,14 @@ p' = 1 - s' - j' = 1 - 0.37 - 0.41 = 0.22
 
 #### Results analysis
 
-As we can see from the pick ratios we can assume that our game is decently balanced because the pick rates are fairly similar. There is no dominant unit that rules above other, thus there's no unit that players can abuse and utilize to win games. Some will argue that the Jetpack is a pretty dominant unit who is chosen 41% of the time. To balance the fundamental strength of a unit, we can lock it behind an upgrade in our technological tree, which will be explain further into the research but you can check what this concept is [here.](https://scarzard.github.io/RTS_Balancing/#6-technology-tree)
+As we can see from the pick ratios we can assume that our game is decently balanced because the pick rates are fairly similar. There is no dominant unit that rules above other, thus there's no unit that players can abuse and utilize to win games. Some will argue that the Jetpack is a pretty dominant unit who is chosen 41% of the time. To balance the fundamental strength of a unit, we can lock it behind an upgrade in our technological tree, which will be explain further into the research but you can check what this concept is [here.](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#6-technology-tree)
 
 In case we would want a perfectly balanced game where all units are chosen the same amount of time, by simply looking at the ratios, we can assume that either snipers are not very cost effective, therefore we should lower their cost, or jetpacks are offer way more value for its cost than other unit. So by rising the cost of this unit it should drive people away from  mass-producing this unit. Although, this procedure is **not encouraged** unless there's a clear dominance from one unit.
 
 What we actually want is not a perfectly balanced game where units have the perfect trade off every single time. We want **some units to deviate from the balanced curve** that our game inherently has. Developers from Wizards of the Coast called it ***The Jedi Curve***, and they allowed their cards to deviate from said curve positively or negatively by 10-15%. this brough a wider array of options to choose from by simply making some units stronger than others.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/jedi%20curve.png" width ="500">
+  <img  src="https://raw.githubusercontent.com/Marchusky/RTS-Balancing/master/docs/Web%20Images/jedi%20curve.png" width ="500">
 </p>
 
 
@@ -266,7 +266,7 @@ Asymmetrical balancing is the way to make a game with factions or different them
 It is not necessary to make you game have additional factions because it might not even improve the game and making a game that has no mirrored factions is resource-consuming for the developer team. And you might be working on a feature that has no real positive impact on your game whatsoever, will make it harder to balance and you will lose time on a feature that might hinder the basic game flow.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/terran%20protoss%20zerg.png" width ="500">
+  <img  src="https://raw.githubusercontent.com/Marchusky/RTS-Balancing/master/docs/Web%20Images/terran%20protoss%20zerg.png" width ="500">
 </p>
 
 *All credits for this image belongs to [Keyan3D](https://www.deviantart.com/keyan3d)*
