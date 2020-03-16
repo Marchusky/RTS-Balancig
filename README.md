@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+I am Marc Gallardo Quesada, a student in the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/estudis/graus-videojocs/). This research is generated for the second year’s subject Project II.
 
-You can use the [editor on GitHub](https://github.com/Marchusky/RTS-Balancig/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this project, I will be covering the basic concepts of balancing an RTS game and taking a deep dive in the complexity that they  carry. Furthermore, I will explain some of the methods used in order to reach our desired objective.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# [RTS Balacing website](https://marchusky.github.io/RTS-Balancing/)
+In this link you will find the complete research about the topic
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## [Unit Balancing Spreadsheet](https://drive.google.com/file/d/1s6JRnOOyAR3XHey6yj2iO6kdcxu8GNO1/view?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
+To download it, click on the link above.
 
-- Bulleted
-- List
+I've provided this spreadsheet for anyone to be able to balance his troops. It takes into consideration:
+- The cost
+- The HP
+- To what type of damage is it weak to
+- 2 types of damage
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marchusky/RTS-Balancig/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Disclaimer: I've modified and adapted the spreadsheet done by the user [HappyCoder](https://www.gamedev.net/forums/topic/685693-rts-unit-balance/?do=findComment&comment=5329145) to my needs. All credits goes to him.* 
