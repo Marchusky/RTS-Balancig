@@ -1,6 +1,6 @@
 # RTS Balancing
 
-I am Marc Gallardo Quesada, a student in the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs). This research is generated for the second year’s subject Project II.
+I am Marc Gallardo Quesada, a student in the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/cat/estudis/graus-videojocs/). This research is generated for the second year’s subject Project II.
 
 
 # Introduction
