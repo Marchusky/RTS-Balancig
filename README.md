@@ -3,7 +3,7 @@ I am Marc Gallardo Quesada, a student in the [Bachelor’s Degree in Video Games
 In this project, I will be covering the basic concepts of balancing an RTS game and taking a deep dive in the complexity that they  carry. Furthermore, I will explain some of the methods used in order to reach our desired objective.
 
 
-# [RTS Balacing website](https://marchusky.github.io/RTS-Balancing/)
+# [RTS Balacing website](https://marchusky.github.io/RTS-Balancig/)
 In this link you will find the complete research about the topic
 
 
