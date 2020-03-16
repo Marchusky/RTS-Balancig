@@ -10,48 +10,48 @@ In this project, I will be covering the basic concepts of balancing an RTS game 
 # Index
 * [1. Game balance](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#1-game-balance) 
 
-* [2. Unit balancing](https://scarzard.github.io/RTS_Balancing/#2-unit-balancing) 
-    * [Applying zero-sum games to RTS](https://scarzard.github.io/RTS_Balancing/#applying-zero-sum-games-to-rts)
-      * [Results analysis](https://scarzard.github.io/RTS_Balancing/#results-analysis)
-    * [Theory applied to armies](https://scarzard.github.io/RTS_Balancing/#theory-applied-to-armies)
+* [2. Unit balancing](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#2-unit-balancing) 
+    * [Applying zero-sum games to RTS](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#applying-zero-sum-games-to-rts)
+      * [Results analysis](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#results-analysis)
+    * [Theory applied to armies](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#theory-applied-to-armies)
     
 
-* [3. Asymmetrical balancing](https://scarzard.github.io/RTS_Balancing/#3-asymmetrical-balancing)
-    * [Ways to approach asymmetric design](https://scarzard.github.io/RTS_Balancing/#ways-to-approach-asymmetric-design)
+* [3. Asymmetrical balancing](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#3-asymmetrical-balancing)
+    * [Ways to approach asymmetric design](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#ways-to-approach-asymmetric-design)
 
-* [4. Defining gameplay styles in RTS](https://scarzard.github.io/RTS_Balancing/#4-defining-gameplay-styles-in-rts)
+* [4. Defining gameplay styles in RTS](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#4-defining-gameplay-styles-in-rts)
 
-* [5. Resource systems, management and control of its economy](https://scarzard.github.io/RTS_Balancing/#5-resource-systems-management-and-control-of-its-economy)
-    * [Rate of expense](https://scarzard.github.io/RTS_Balancing/#rate-of-expense) 
-    * [Types of gathering](https://scarzard.github.io/RTS_Balancing/#types-of-gathering)
-    * [Control of economy and player agency](https://scarzard.github.io/RTS_Balancing/#control-of-economy-and-player-agency)
+* [5. Resource systems, management and control of its economy](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#5-resource-systems-management-and-control-of-its-economy)
+    * [Rate of expense](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#rate-of-expense) 
+    * [Types of gathering](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#types-of-gathering)
+    * [Control of economy and player agency](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#control-of-economy-and-player-agency)
     
-* [6. Technology tree](https://scarzard.github.io/RTS_Balancing/#6-technology-tree)
-    * [How to create our own technological tree?](https://scarzard.github.io/RTS_Balancing/#how-to-create-our-own-technological-tree)
+* [6. Technology tree](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#6-technology-tree)
+    * [How to create our own technological tree?](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#how-to-create-our-own-technological-tree)
 
-* [7. Artificial Intelligence (AI)](https://scarzard.github.io/RTS_Balancing/#7-artificial-intelligence-ai)
-    * [Make machine driven units more resilient](https://scarzard.github.io/RTS_Balancing/#make-machine-driven-units-more-resilient)
-    * [Make the AI have different personalities](https://scarzard.github.io/RTS_Balancing/#make-the-ai-have-different-personalities)
-    * [AI needs to be predictable](https://scarzard.github.io/RTS_Balancing/#ai-needs-to-be-predictable)
-    * [AI should be able to interact with the game's systems](https://scarzard.github.io/RTS_Balancing/#ai-should-be-able-to-interact-with-the-games-systems)
-    * [Make the AI react to player's actions](https://scarzard.github.io/RTS_Balancing/#make-the-ai-react-to-players-actions)
-    * [Good AI for friendlies!](https://scarzard.github.io/RTS_Balancing/#good-ai-for-friendlies)
+* [7. Artificial Intelligence (AI)](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#7-artificial-intelligence-ai)
+    * [Make machine driven units more resilient](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#make-machine-driven-units-more-resilient)
+    * [Make the AI have different personalities](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#make-the-ai-have-different-personalities)
+    * [AI needs to be predictable](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#ai-needs-to-be-predictable)
+    * [AI should be able to interact with the game's systems](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#ai-should-be-able-to-interact-with-the-games-systems)
+    * [Make the AI react to player's actions](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#make-the-ai-react-to-players-actions)
+    * [Good AI for friendlies!](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#good-ai-for-friendlies)
     
-* [8. Single-player modes](https://scarzard.github.io/RTS_Balancing/#8-single-player-modes)
+* [8. Single-player modes](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#8-single-player-modes)
  
-* [9. Map design and balance for SCII](https://scarzard.github.io/RTS_Balancing/#9-map-design-and-balance-for-scii)
-    * [Chokepoints](https://scarzard.github.io/RTS_Balancing/#chokepoints)
-    * [Openness](https://scarzard.github.io/RTS_Balancing/#openness) 
-    * [Resource](https://scarzard.github.io/RTS_Balancing/#resource)
-    * [Base location](https://scarzard.github.io/RTS_Balancing/#base-location) 
-    * [Map symmetry](https://scarzard.github.io/RTS_Balancing/#map-symmetry) 
+* [9. Map design and balance for SCII](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#9-map-design-and-balance-for-scii)
+    * [Chokepoints](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#chokepoints)
+    * [Openness](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#openness) 
+    * [Resource](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#resource)
+    * [Base location](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#base-location) 
+    * [Map symmetry](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#map-symmetry) 
     
-* [10. Conclusions and personal thoughts on the topic](https://scarzard.github.io/RTS_Balancing/#10-conclusions-and-personal-thoughts-on-the-topic)
+* [10. Conclusions and personal thoughts on the topic](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#10-conclusions-and-personal-thoughts-on-the-topic)
   
-* [11. Bibliography, Webgraphy and Videography](https://github.com/Scarzard/StormHowlers/wiki/4.-Audio-Bible)
-  * [Links](https://scarzard.github.io/RTS_Balancing/#links)
-  * [Abstracts/PDFs](https://scarzard.github.io/RTS_Balancing/#abstractspdfs)
-  * [Videography](https://scarzard.github.io/RTS_Balancing/#videography)
+* [11. Bibliography, Webgraphy and Videography](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#11-bibliography-webgraphy-and-videography)
+  * [Links](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#links)
+  * [Abstracts/PDFs](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#abstractspdfs)
+  * [Videography](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#videography)
     
 ## 1. Game Balance
 
