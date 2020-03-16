@@ -208,7 +208,7 @@ In case we would want a perfectly balanced game where all units are chosen the s
 What we actually want is not a perfectly balanced game where units have the perfect trade off every single time. We want **some units to deviate from the balanced curve** that our game inherently has. Developers from Wizards of the Coast called it ***The Jedi Curve***, and they allowed their cards to deviate from said curve positively or negatively by 10-15%. this brough a wider array of options to choose from by simply making some units stronger than others.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Marchusky/RTS-Balancing/master/docs/Web%20Images/jedi%20curve.png" width ="500">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/jedi%20curve.png" width ="500">
 </p>
 
 
@@ -266,7 +266,7 @@ Asymmetrical balancing is the way to make a game with factions or different them
 It is not necessary to make you game have additional factions because it might not even improve the game and making a game that has no mirrored factions is resource-consuming for the developer team. And you might be working on a feature that has no real positive impact on your game whatsoever, will make it harder to balance and you will lose time on a feature that might hinder the basic game flow.
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Marchusky/RTS-Balancing/master/docs/Web%20Images/terran%20protoss%20zerg.png" width ="500">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/terran%20protoss%20zerg.png" width ="500">
 </p>
 
 *All credits for this image belongs to [Keyan3D](https://www.deviantart.com/keyan3d)*
@@ -349,19 +349,19 @@ As we can see in the following images, TTs can vary from fairly simple, to compl
 
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/SCII%20TT.jpg" width ="500">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/SCII%20TT.jpg" width ="500">
 </p>
 
 *StarCraft II Tech Tree*
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/Warcraft%20TT.jpg" width ="500">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/Warcraft%20TT.jpg" width ="500">
 </p>
 
 *Warcraft Tech Tree*
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/PoE%20TT.jpg" width ="500">
+  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/PoE%20TT.jpg" width ="500">
 </p>
 
 *Path of Exile Tech Tree*
