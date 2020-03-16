@@ -1,14 +1,14 @@
 # RTS Balancing
 
-I am [Victor Chen](https://www.linkedin.com/in/victor-chen-556670182), student of the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs). This content is generated for the second year’s subject Project 2, under supervision of lecturer [Ricard Pillosu](https://es.linkedin.com/in/ricardpillosu).
+I am Marc Gallardo Quesada, a student in the [Bachelor’s Degree in Video Games by UPC at CITM](https://www.citm.upc.edu/ing/estudis/graus-videojocs). This research is generated for the second year’s subject Project II.
 
 
 # Introduction
 
-In this project, I will be covering the basic concepts of balancing an RTS game and taking a deep dive in the complexity that they inherently carry. Furthermore, I will explain some of the methods used in order to reach our desired objective.
+In this project, I will be covering the basic concepts of balancing an RTS game and taking a deep dive in the complexity that they  carry. Furthermore, I will explain some of the methods used in order to reach our desired objective.
 
 # Index
-* [1. Game balance](https://scarzard.github.io/RTS_Balancing/#1-game-balance) 
+* [1. Game balance](https://marchusky.github.io/RTS_Balancing/#1-game-balance) 
 
 * [2. Unit balancing](https://scarzard.github.io/RTS_Balancing/#2-unit-balancing) 
     * [Zero-sum games](https://scarzard.github.io/RTS_Balancing/#zero-sum-games)
