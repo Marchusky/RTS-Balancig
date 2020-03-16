@@ -8,10 +8,9 @@ I am Marc Gallardo Quesada, a student in the [Bachelor’s Degree in Video Games
 In this project, I will be covering the basic concepts of balancing an RTS game and taking a deep dive in the complexity that they  carry. Furthermore, I will explain some of the methods used in order to reach our desired objective.
 
 # Index
-* [1. Game balance](https://marchusky.github.io/RTS_Balancing/#1-game-balance) 
+* [1. Game balance](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#1-game-balance) 
 
 * [2. Unit balancing](https://scarzard.github.io/RTS_Balancing/#2-unit-balancing) 
-    * [Zero-sum games](https://scarzard.github.io/RTS_Balancing/#zero-sum-games)
     * [Applying zero-sum games to RTS](https://scarzard.github.io/RTS_Balancing/#applying-zero-sum-games-to-rts)
       * [Results analysis](https://scarzard.github.io/RTS_Balancing/#results-analysis)
     * [Theory applied to armies](https://scarzard.github.io/RTS_Balancing/#theory-applied-to-armies)
