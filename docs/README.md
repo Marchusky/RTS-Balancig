@@ -500,7 +500,7 @@ In StarCraft II, unit balancing is not a topic that developers touch with freque
 Chokepoints are essential when designing a map because it creates a point of contention for both players because whatever lies on the other is significantly easier to defend, thus, making successful attacks to the location is greatly reduced. Chokepoints are made by two main concepts: the **width** and if it's a **ramp** or not. 
 - **Width:** The width of a chokepoint is extremely important since a tight chokepoint makes ranged units excel and usually small skirmishes happen. But wider and more open chokepoints makes melee troops able to swarm and overwhelm. It also favors larger scale battles.
 
-- **Ramp:** If a chokepoint lead to a different elevation then it's called a ramp. This is especially important in StarCraft because having control of the high ground means receiving a passive buff that lasts for as long as you control said zone. Ramps is the most common way to balance or neutralize the strengths of the Zerg faction, more specifically, the [Zerg Rushing strategy](https://scarzard.github.io/RTS_Balancing/#4-defining-gameplay-styles-in-rts)
+- **Ramp:** If a chokepoint lead to a different elevation then it's called a ramp. This is especially important in StarCraft because having control of the high ground means receiving a passive buff that lasts for as long as you control said zone. Ramps is the most common way to balance or neutralize the strengths of the Zerg faction, more specifically, the [Zerg Rushing strategy](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#4-defining-gameplay-styles-in-rts)
 
 <p align="center">
   <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/ramp.jpg">
