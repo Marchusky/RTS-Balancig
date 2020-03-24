@@ -8,50 +8,50 @@ I am Marc Gallardo Quesada, a student in the [Bachelor’s Degree in Video Games
 In this project, I will be covering the basic concepts of balancing an RTS game and taking a deep dive in the complexity that they  carry. Furthermore, I will explain some of the methods used in order to reach our desired objective.
 
 # Index
-* [1. Game balance](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#1-game-balance) 
+* 1. Game balance
 
-* [2. Unit balancing](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#2-unit-balancing) 
-    * [Applying zero-sum games to RTS](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#applying-zero-sum-games-to-rts)
-      * [Results analysis](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#results-analysis)
-    * [Theory applied to armies](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#theory-applied-to-armies)
+* 2. Unit balancing
+    * Applying zero-sum games to RTS
+      * Results analysis
+    * Theory applied to armies
     
 
-* [3. Asymmetrical balancing](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#3-asymmetrical-balancing)
-    * [Ways to approach asymmetric design](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#ways-to-approach-asymmetric-design)
+* 3. Asymmetrical balancing
+    * Ways to approach asymmetric design
 
-* [4. Defining gameplay styles in RTS](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#4-defining-gameplay-styles-in-rts)
+* 4. Defining gameplay styles in RTS
 
-* [5. Resource systems, management and control of its economy](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#5-resource-systems-management-and-control-of-its-economy)
-    * [Rate of expense](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#rate-of-expense) 
-    * [Types of gathering](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#types-of-gathering)
-    * [Control of economy and player agency](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#control-of-economy-and-player-agency)
+* 5. Resource systems, management and control of its economy
+    * Rate of expense
+    * Types of gathering
+    * Control of economy and player agency
     
-* [6. Technology tree](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#6-technology-tree)
-    * [How to create our own technological tree?](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#how-to-create-our-own-technological-tree)
+* 6. Technology tree
+    * How to create our own technological tree?
 
-* [7. Artificial Intelligence (AI)](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#7-artificial-intelligence-ai)
-    * [Make machine driven units more resilient](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#make-machine-driven-units-more-resilient)
-    * [Make the AI have different personalities](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#make-the-ai-have-different-personalities)
-    * [AI needs to be predictable](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#ai-needs-to-be-predictable)
-    * [AI should be able to interact with the game's systems](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#ai-should-be-able-to-interact-with-the-games-systems)
-    * [Make the AI react to player's actions](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#make-the-ai-react-to-players-actions)
-    * [Good AI for friendlies!](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#good-ai-for-friendlies)
+* 7. Artificial Intelligence (AI)
+    * Make machine driven units more resilient
+    * Make the AI have different personalities
+    * AI needs to be predictable
+    * AI should be able to interact with the game's systems
+    * Make the AI react to player's actions
+    * Good AI for friendlies!
     
-* [8. Single-player modes](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#8-single-player-modes)
+* 8. Single-player modes
  
-* [9. Map design and balance for SCII](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#9-map-design-and-balance-for-scii)
-    * [Chokepoints](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#chokepoints)
-    * [Openness](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#openness) 
-    * [Resource](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#resource)
-    * [Base location](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#base-location) 
-    * [Map symmetry](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#map-symmetry) 
+* 9. Map design and balance for SCII
+    * Chokepoints
+    * Openness
+    * Resource
+    * Base location
+    * Map symmetry
     
-* [10. Conclusions and personal thoughts on the topic](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#10-conclusions-and-personal-thoughts-on-the-topic)
+* 10. Conclusions and personal thoughts on the topic
   
-* [11. Bibliography, Webgraphy and Videography](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#11-bibliography-webgraphy-and-videography)
-  * [Links](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#links)
-  * [Abstracts/PDFs](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#abstractspdfs)
-  * [Videography](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#videography)
+* 11. Bibliography, Webgraphy and Videography
+  * Links
+  * Abstracts/PDFs
+  * Videography
     
 ## 1. Game Balance
 
@@ -208,7 +208,7 @@ In case we would want a perfectly balanced game where all units are chosen the s
 What we actually want is not a perfectly balanced game where units have the perfect trade off every single time. We want **some units to deviate from the balanced curve** that our game inherently has. Developers from Wizards of the Coast called it ***The Jedi Curve***, and they allowed their cards to deviate from said curve positively or negatively by 10-15%. this brough a wider array of options to choose from by simply making some units stronger than others.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/jedi%20curve.png" width ="500">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/jedi%20curve.png" width ="500">
 </p>
 
 
@@ -266,7 +266,7 @@ Asymmetrical balancing is the way to make a game with factions or different them
 It is not necessary to make you game have additional factions because it might not even improve the game and making a game that has no mirrored factions is resource-consuming for the developer team. And you might be working on a feature that has no real positive impact on your game whatsoever, will make it harder to balance and you will lose time on a feature that might hinder the basic game flow.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/terran%20protoss%20zerg.png" width ="500">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/terran%20protoss%20zerg.png" width ="500">
 </p>
 
 *All credits for this image belongs to [Keyan3D](https://www.deviantart.com/keyan3d)*
@@ -349,19 +349,19 @@ As we can see in the following images, TTs can vary from fairly simple, to compl
 
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/SCII%20TT.jpg" width ="500">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/SCII%20TT.jpg" width ="500">
 </p>
 
 *StarCraft II Tech Tree*
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/Warcraft%20TT.jpg" width ="500">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/Warcraft%20TT.jpg" width ="500">
 </p>
 
 *Warcraft Tech Tree*
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/PoE%20TT.jpg" width ="500">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/PoE%20TT.jpg" width ="500">
 </p>
 
 *Path of Exile Tech Tree*
@@ -386,7 +386,7 @@ The next step is thinking on what units should be available the moment a match s
 Let's schematize what we just discussed in the image below:
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/tech%20tree.png">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/tech%20tree.png">
 </p>
 
 ## 7. Artificial Intelligence (AI)
@@ -404,7 +404,7 @@ By making enemy units that the game itself controls, it makes the player thing t
 As we can see in the image below, the percentage of players that claimed that the AI was "very intelligent" jumped from a mere 8% when playeres where facing low damagin, low HP monsters. In contrast, this percentage skyrocketed to an astounding 43% when players where facing high damaging, high HP monsters.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/tougher%20enemies%20graph.png" width ="500">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/tougher%20enemies%20graph.png" width ="500">
 </p>
 
 *Photo taken from [this](https://www.youtube.com/watch?v=9bbhJi0NBkk) video By GameMaker'sTollkit*
@@ -445,7 +445,7 @@ This is not intended to be applied to RTS because rarely, if not never, you won'
 An extremely good example analysing Final Fantasy XV's character, Prompto, who will be taking selfies when certain thresholds have been triggered or when the character feels like doing so. Gameplay wise, this has no value whatsoever. But it adds a tremendous amount of complexity to Prompto's character and makes him feel like he's self-aware.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/prompto%20selfie%20system.jpg" width ="500">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/prompto%20selfie%20system.jpg" width ="500">
 </p>
 
 *Prompto's selfie system in the form of a flowchart*
@@ -465,19 +465,19 @@ I will be discussing the fascinating world of single-player modes on specific le
 First of all, the objective of this mission is to earch the main objective, it's marked witha green cross. As we can observe, there's a chokepoint and the path is blocked by a pair of Mammoth Tanks(MT) one of these units alone would be enough to wipe you entire army, that is composed of 1 Mobile Contruction Vehicle, vital to beat this game, 1 light tank and 2 attack bikes with 2 buggies attached to them. Making a total of 6 starting units. This level requires you to cleverly utilize your extremely limited army to beat this seemingly impossible level and take advantage of the map's layout.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/step1.png">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/step1.png">
 </p>
 
 The first step in order to beat this level is having one of you bikes lure a single MT and move it away from the chokepoint. The only thing you should do is lure it clockwise with the huge montain in the top-middle of the map. Once lured, you proceed to do the same whith the other buggy when the 1st one reaches 12 o'clock. After this has been done, you have to move your MCV to the destination.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/step2.png">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/step2.png">
 </p>
 
 After this is done and you have your base under construction, you have 2 options: destroy the tanks or have the lured forever. The first choice is the more optimal one since having to constantly micromanage 2 bikes while defending, expanding and upgrading you base would distract you from efficiently carrying out these tasks. So the way to do it is to send one attack bike after each MT so the MT chases the buggy while the attack bike pokes it from behind untill both are destroyed. 
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/strategy_chart.png">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/strategy_chart.png">
 </p>
 
 *Visual representation of this tactic*
@@ -503,7 +503,7 @@ Chokepoints are essential when designing a map because it creates a point of con
 - **Ramp:** If a chokepoint lead to a different elevation then it's called a ramp. This is especially important in StarCraft because having control of the high ground means receiving a passive buff that lasts for as long as you control said zone. Ramps is the most common way to balance or neutralize the strengths of the Zerg faction, more specifically, the [Zerg Rushing strategy](https://github.com/Marchusky/RTS-Balancig/blob/master/docs/README.md#4-defining-gameplay-styles-in-rts)
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/ramp.jpg">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/ramp.jpg">
 </p>
 
 
@@ -534,7 +534,7 @@ This is the absolute basic concept for balancing a map. Make sure that players a
 Often, map creators will the the artifical look that a symmetrical map produces by changing game elements that don't have any impact on gameplay whatsoever. For example, changing the textures throughout the map so that the player feels in a more natural environment. This practice is called *functional symmetry*.
 
 <p align="center">
-  <img  src="https://github.com/Marchusky/RTS-Balancig/blob/master/docs/Web%20Images/Circuit_Breakers.jpg">
+  <img  src="https://raw.githubusercontent.com/Scarzard/RTS_Balancing/master/docs/Web%20Images/Circuit_Breakers.jpg">
 </p>
 
 *Competitive map: Circuit Breaker. Often tagged as the most balanced map of all time*
